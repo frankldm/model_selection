@@ -15,9 +15,11 @@ def offt(x):
     n = m[1]
     #print x, type(x), m
     #  row x column; m[0] --> row  m[1] --> column
+    
     c = np.zeros(shape=m)
     c = np.matrix(c)
     #print type(c), type(x)#np.shape(c)
+    
     for i in range(0, n):
         c[::, i] = (2**(n-i-1))*x[::, i]
     e = np.zeros(m)
