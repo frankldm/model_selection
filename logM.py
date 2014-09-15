@@ -29,4 +29,3 @@ def logm(x, y):
             dd = dd + np.log(1 + np.exp(c[nn] - dd))
 
         return dd
-
