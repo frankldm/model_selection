@@ -1,7 +1,6 @@
 __author__ = 'Franklou'
 # -*- coding: utf-8 -*-
 
-
 import numpy as np
 ## Function for logarithm addition
 ## A = log(a); B = log(b);
