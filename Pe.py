@@ -21,5 +21,3 @@ def pe(x):
         h[0][a] = d
 
     return np.sum(h)
-
-
