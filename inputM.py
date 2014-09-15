@@ -31,7 +31,6 @@ t3_2 = 0.6
 t3_3 = 0.2
 t3_4 = 0.7
 
-
 m = 1000   # number of object
 n = 4   # number of feature
 
