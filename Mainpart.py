@@ -9,6 +9,7 @@ import types
 
 
 sys.path.append('/Users/Franklou/Dropbox/TUe/Traineeship/Code/Py')
+# It dependences on the location of your files
 
 from offt import offt
 
